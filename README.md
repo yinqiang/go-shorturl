@@ -1,2 +1,2 @@
-# go-sorturl
-make sort URL with golang
+# go-shorturl
+make short URL with golang
